@@ -1,0 +1,23 @@
+#mylabel{
+    display: block;
+    text-align:center;
+    font-size:100px;
+    
+}
+#btncont{
+    text-align:center;
+}
+.butt{
+    padding: 12px;
+    margin:10px;
+    border-radius: 5px;
+    color:blue;
+    font-size:12px;
+    background-color: aqua;
+    cursor:crosshair;
+    
+}
+
+.butt:hover{
+    background-color: coral;
+}
