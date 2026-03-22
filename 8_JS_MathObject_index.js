@@ -12,6 +12,7 @@ let z=4;
 //x=Math.sin(y);
 //x=Math.cos(x);
 //x=Math.tan(x);
-x=Math.abs(x);
-
+//x=Math.abs(x);
+//x=Math.max(x,y,z);
+x=Math.min(x,y,z);
 console.log(x);
